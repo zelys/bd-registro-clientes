@@ -1,8 +1,8 @@
 # Registro Clientes
 
-### Normalización de la base de datos
+## Normalización de la base de datos
 
-<iframe width="320" height="180" src="https://www.youtube.com/embed/ppdnC41HK2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"></iframe>
+[Normalización de la Base de Datos existente](https://www.youtube.com/watch?v=ppdnC41HK2M)
 
 ## Listado de Entidades
 
