@@ -1,5 +1,9 @@
 # Registro Clientes
 
+### Normalización de la base de datos
+
+[Comprehensive Markdown Crash Course](https://www.youtube.com/watch?v=ppdnC41HK2M)
+
 ## Listado de Entidades
 
 ### clientes **(ED)**
