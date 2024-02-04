@@ -1,10 +1,8 @@
-# registroClientesDB
+# Modelado de Base de Datos
 
-Desarrollo de un modelo de base de datos para el registro de clientes
+Desarrollo y optimización de un modelo de base de datos de registro de clientes.
 
-# Registro Clientes
-
-## Normalización de la base de datos
+## Normalización de la base de datos (video)
 
 [Normalización de la Base de Datos existente](https://www.youtube.com/watch?v=ppdnC41HK2M)
 
